@@ -15,7 +15,7 @@ public:
         parent[a] = find(parent[a]);
         return parent[a];
     }
- 
+ // union by size 
     void union_size(int node1, int node2) {
         int par1 = find(node1);
         int par2 = find(node2);

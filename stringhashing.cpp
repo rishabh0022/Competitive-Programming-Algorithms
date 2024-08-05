@@ -1,3 +1,4 @@
+// not mine code , credits to shawdow9236 on cf
 struct string_hash{
 	int N;
 	string s;
